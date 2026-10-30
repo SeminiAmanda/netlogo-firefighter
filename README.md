@@ -94,13 +94,6 @@ More crews do not give a clear drop in the biggest fire; run-to-run randomness i
 | `data/firefighter_paradox_results.xlsx` | Same results in Excel |
 | `data/firefighter_paradox_TEMPLATE.csv` | Template layout used for planning/analysis |
 
-## Smart City model (separate)
-
-`models/smart-city/smart_city.nlogox` is a second, independent NetLogo model of autonomous urban growth (people, houses, businesses, developers, cars, pollution and land value; one tick = one day, city updates monthly). It needs the shapes `building store` and `building institution` (Tools → Turtle Shapes Editor → Import from Library).
-
-## Add real screenshots
-
-In NetLogo, run the model, then **File → Export View…** (or **Export Interface…**) and save the PNG into `images/`. Reference it in this README with `![caption](images/your-file.png)`.
 
 ## Version history
 
@@ -108,4 +101,4 @@ The `archive/` folder holds earlier iterations of the firefighter model (`v1`, `
 
 ## Author
 
-binarybrains333
+Amanda Sewwandi
